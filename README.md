@@ -1,2 +1,3 @@
-# studysync
-An educational support app for students — AI-powered
+# StudySync
+
+Smart study assistant app for students.
